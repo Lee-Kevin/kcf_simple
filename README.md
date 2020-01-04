@@ -18,6 +18,10 @@ The code depends on OpenCV 2.4+ library and is build via cmake toolchain.
 _________________
 Quick start guide
 
+requirement:
+trax 1.1.4
+opencv 2.4+
+
 for linux: open terminal in the directory with the code
 
 $ mkdir build; cd build; cmake .. ; make
